@@ -6,7 +6,7 @@
 <p align="center">
 <span>Email: ddaeunbb@gmail.com</span>
 <br>
-<span>Blog: <a>https://ddaeunbb.tistory.com</a></span>
+<span>Blog: <a href="https://ddaeunbb.tistory.com">https://ddaeunbb.tistory.com</a></span>
 <br>
 <span>Portfolio: <a href="https://daeun-kim.netlify.app/">https://daeun-kim.netlify.app/</a></span>
 </p>
