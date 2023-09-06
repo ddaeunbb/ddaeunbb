@@ -8,7 +8,7 @@
 <br>
 <span>Blog: <a>https://ddaeunbb.tistory.com</a></span>
 <br>
-<span>Portfolio: 준비중...</span>
+<span>Portfolio: <a href="https://daeun-kim.netlify.app/">https://daeun-kim.netlify.app/</a></span>
 </p>
 
 <br>
